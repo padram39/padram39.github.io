@@ -22,6 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Point og:image at the live URL
+        run: sed -i 's|content="assets/og.png"|content="https://padram39.github.io/assets/og.png"|' portfolio-site/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
