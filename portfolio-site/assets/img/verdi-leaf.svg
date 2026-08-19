@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Tomato leaf close-up with early blight spots">
+<defs><filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"/></filter><radialGradient id="vbg" cx="50%" cy="42%" r="75%"><stop offset="0%" stop-color="#F2F8EC"/><stop offset="100%" stop-color="#EAF3E4"/></radialGradient></defs>
+<rect width="900" height="600" fill="url(#vbg)"/>
+<circle cx="120" cy="510" r="90" fill="#5CAD6B" opacity=".18"/>
+<circle cx="812" cy="96" r="70" fill="#FF7A59" opacity=".14"/>
+<g transform="translate(210,470) rotate(38) scale(0.72)">
+<path d="M0,-150 C60,-140 110,-95 118,-30 C124,20 96,52 60,60 C78,74 84,98 70,118 C50,146 14,150 0,150 C-14,150 -50,146 -70,118 C-84,98 -78,74 -60,60 C-96,52 -124,20 -118,-30 C-110,-95 -60,-140 0,-150 Z" fill="#5CAD6B" stroke="#2F6E3C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M0,-138 L0,138 M0,-70 C-34,-66 -62,-46 -82,-16 M0,-70 C34,-66 62,-46 82,-16 M0,10 C-28,16 -48,34 -60,62 M0,10 C28,16 48,34 60,62 M0,80 C-16,86 -28,98 -34,116 M0,80 C16,86 28,98 34,116" fill="none" stroke="#EAF3E4" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+</g>
+<g transform="translate(730,150) rotate(-34) scale(0.6)">
+<path d="M0,-150 C60,-140 110,-95 118,-30 C124,20 96,52 60,60 C78,74 84,98 70,118 C50,146 14,150 0,150 C-14,150 -50,146 -70,118 C-84,98 -78,74 -60,60 C-96,52 -124,20 -118,-30 C-110,-95 -60,-140 0,-150 Z" fill="#2F6E3C" stroke="#2F6E3C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M0,-138 L0,138 M0,-70 C-34,-66 -62,-46 -82,-16 M0,-70 C34,-66 62,-46 82,-16 M0,10 C-28,16 -48,34 -60,62 M0,10 C28,16 48,34 60,62 M0,80 C-16,86 -28,98 -34,116 M0,80 C16,86 28,98 34,116" fill="none" stroke="#BFE0C4" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+</g>
+<g transform="translate(450,300) rotate(-8) scale(1.28)">
+<path d="M0,-150 C60,-140 110,-95 118,-30 C124,20 96,52 60,60 C78,74 84,98 70,118 C50,146 14,150 0,150 C-14,150 -50,146 -70,118 C-84,98 -78,74 -60,60 C-96,52 -124,20 -118,-30 C-110,-95 -60,-140 0,-150 Z" fill="#3E8E4E" stroke="#2F6E3C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M0,-138 L0,138 M0,-70 C-34,-66 -62,-46 -82,-16 M0,-70 C34,-66 62,-46 82,-16 M0,10 C-28,16 -48,34 -60,62 M0,10 C28,16 48,34 60,62 M0,80 C-16,86 -28,98 -34,116 M0,80 C16,86 28,98 34,116" fill="none" stroke="#DFF0DC" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+</g>
+<g transform="translate(450,300) rotate(-8) scale(1.28)"><circle cx="-52" cy="-46" r="26" fill="#B98A3A"/><circle cx="-52" cy="-46" r="16.12" fill="#8A5A24"/><circle cx="-52" cy="-46" r="7.8" fill="#5E3A14"/><circle cx="44" cy="44" r="20" fill="#B98A3A"/><circle cx="44" cy="44" r="12.4" fill="#8A5A24"/><circle cx="44" cy="44" r="6.0" fill="#5E3A14"/><circle cx="20" cy="-92" r="13" fill="#B98A3A"/><circle cx="20" cy="-92" r="8.06" fill="#8A5A24"/><circle cx="20" cy="-92" r="3.9" fill="#5E3A14"/></g>
+<g transform="translate(383,240)">
+<circle r="64" fill="none" stroke="#FF7A59" stroke-width="9"/>
+<g stroke="#FF7A59" stroke-width="9" stroke-linecap="round"><line x1="0" y1="-84" x2="0" y2="-62"/><line x1="0" y1="62" x2="0" y2="84"/><line x1="-84" y1="0" x2="-62" y2="0"/><line x1="62" y1="0" x2="84" y2="0"/></g>
+</g>
+<g transform="translate(383,152)"><rect x="-96" y="-30" width="192" height="46" rx="23" fill="#FFFFFF" stroke="#2F6E3C" stroke-width="5"/><text y="3" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-weight="bold" font-size="21" fill="#2F6E3C">Early blight?</text></g>
+<rect width="100%" height="100%" filter="url(#grain)" opacity=".05"/>
+</svg>
